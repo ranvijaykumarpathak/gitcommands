@@ -1,0 +1,9 @@
+Flag	Meaning        	Example
+-m	message	          git commit -m "msg"
+-a	all tracked files	 git commit -am "msg"
+-d	delete	          git branch -d feature
+-D	force delete	git branch -D feature
+-M	force rename	git branch -M main
+-u	set upstream	git push -u origin main
+-v	verbose	      git remote -v
+	
