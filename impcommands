@@ -1,0 +1,25 @@
+//Gitlab 
+
+// Sign In with github account 
+
+create project 
+
+> git clone https://gitlab.com/ranvijaykumarpathak-group/ai-demo.git
+
+>cd ai-demo
+ai-demo> echo "this is file content" > first.txt
+> git add .
+> git status 
+> git commit -m "first file created "
+> git push 
+// create new folder inside current folder  - uploads
+// create a new file inside uploads 
+
+>git status 
+>git add .
+// added folder and new file in current local repo
+>git commit -m "new folder created"
+>git push 
+
+// go to gitlab and check whther new folder added or not 
+
